@@ -12,4 +12,10 @@
 
 ###### Enter the Plotters
 
+```js
+function constellation(Yelan) {
+  return Yelan.cons;
+}
+```
+
 
