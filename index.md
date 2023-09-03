@@ -18,4 +18,6 @@ function constellation(Yelan) {
 }
 ```
 
-
+- [ ] Wish for Yelan
+- [ ] Win the 50/50
+- [ ] Get C1 Yelan
